@@ -2,3 +2,5 @@
 datasets
 PythonCode/intermediate_datafiles/
 PythonCode/Example_graphs/
+data
+.DS_Store
