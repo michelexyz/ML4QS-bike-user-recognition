@@ -33,4 +33,4 @@ class KalmanFilters:
         (new_data, filtered_state_covariances) = kf.filter(numpy_matrix_state_with_mask)
 
         data_table[col + '_kalman'] = new_data
-        return data_table
+        return new_data
