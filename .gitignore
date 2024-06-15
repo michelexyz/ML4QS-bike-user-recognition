@@ -2,5 +2,7 @@
 datasets
 PythonCode/intermediate_datafiles/
 PythonCode/Example_graphs/
-*.csv
+data/*
+cleaned_data/*
 .DS_Store
+melted_data.csv
