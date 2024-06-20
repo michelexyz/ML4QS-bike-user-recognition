@@ -7,4 +7,5 @@ cleaned_data/*
 .DS_Store
 melted_data.csv
 .venv/*
+Data/*
 
